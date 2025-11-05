@@ -11,16 +11,14 @@
 
 - 💬 Ask me about **Flutter, Java, Python**
 
-- 📫 How to reach me **Zaheen.kenji@gmail.com**
-
-  ### A little more about me...
+- 📫 Reach me: **abdullahalzahin21@gmail.com**
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdullah-al-zahin-8622ab2b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-al-zahin-8622ab2b8" height="30" width="40" /></a>
-<a href="https://fb.com/zahin.pzk3759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahin.pzk3759" height="30" width="40" /></a>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
